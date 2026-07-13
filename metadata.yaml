@@ -1,0 +1,29 @@
+# 插件的唯一标识名 
+name: astrbot_plugin_work_status
+
+# 插件展示名 (显示在 UI 界面上的名字，可以更友好)
+display_name: 上下班插件
+
+# 插件的一句话简介
+desc: 持在群聊中通过指令控制机器人的上下班状态，下班后将自动拦截并停止响应其他功能
+
+# 插件的详细帮助信息或指令列表
+help: /上班，/下班
+
+# 插件版本号
+version: 1.0.0
+
+# 作者名
+author: 洛奈Hayes
+
+# (可选) 你的 GitHub 仓库地址
+repo: ""
+
+
+# 对应你放在插件目录下的 logo.png 文件
+logo: logo.png
+
+
+
+
+
