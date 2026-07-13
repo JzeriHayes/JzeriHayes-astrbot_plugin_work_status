@@ -17,7 +17,7 @@ version: 1.0.0
 author: 洛奈Hayes
 
 # (可选) 你的 GitHub 仓库地址
-repo: ""
+repo: "https://github.com/JzeriHayes/JzeriHayes-astrbot_plugin_work_status"
 
 
 # 对应你放在插件目录下的 logo.png 文件
